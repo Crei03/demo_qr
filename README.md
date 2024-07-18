@@ -1,4 +1,3 @@
-#README 
 
 Intalar liberias 
 pip install pyzbar
